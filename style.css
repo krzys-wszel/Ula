@@ -1,0 +1,57 @@
+body {
+    max-width: 1000px;
+    ;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: yellowgreen;
+}
+a:active {
+    color: red;
+}
+
+#naglowek img {
+    max-width: 1000px;
+}
+
+li.menu {
+    list-style: none;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: grey;
+    width: 100px;
+    padding: 15px;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+ul.pisarze {
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+footer {
+    background: blue;
+    color: whie;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 50px;
+    font-size: 18px;
+}
